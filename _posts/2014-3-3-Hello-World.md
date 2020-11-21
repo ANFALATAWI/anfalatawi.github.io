@@ -14,6 +14,6 @@ The easiest way to make your first post is to edit this one. Go into /_posts/ an
 <script>
     d3.select("#box").on("mouseover", function(d,i){
         console(d, i)
-    } 
+    } )
     //style("background-color","blue")
 </script>
